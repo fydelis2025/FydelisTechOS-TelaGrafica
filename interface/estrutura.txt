@@ -1,0 +1,22 @@
+fydelis_gui/
+├── include/
+│   ├── gui.h                  # ← Cabeçalho público
+│   ├── cores.h                # ← Paleta oficial
+│   ├── fonte.h                # ← Fonte 8x8
+│   └── botoes.h               # ← Componentes reutilizáveis
+├── src/
+│   ├── gui.c                  # ← Núcleo de desenho
+│   ├── retangulo.c            # ← Formas geométricas
+│   ├── texto.c                # ← Renderização de texto
+│   ├── barra_tarefas.c        # ← 🔥 NOVA — Barra inferior
+│   ├── icones.c               # ← Ícones da área de trabalho
+│   └── mouse.c                # ← Em breve — detecção de clique
+├── assets/
+│   ├── logo_fydelis.h         # ← Logo em formato de pixels
+│   ├── icone_writer.h         # ← Ícone azul
+│   ├── icone_calc.h           # ← Ícone verde
+│   └── icone_slide.h          # ← Ícone roxo
+├── teste/
+│   ├── main_x11.c             # ← Janela de teste (só Linux)
+│   └── Makefile
+└── README.md
