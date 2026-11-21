@@ -1,4 +1,14 @@
-# 🖥️ FydelisGUI — A Tentativa que Deu Errado 😅
+# 🖥️ FydelisTechOS — A Tentativa que Deu Errado 😅
+
+<div align="center">
+
+[![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![GTK4](https://img.shields.io/badge/GUI-GTK4-55A6E0?style=for-the-badge&logo=gtk&logoColor=white)]()
+[![FydelTerm](https://img.shields.io/badge/Terminal-FydelTerm-4169E1?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-4.2-228B22?style=for-the-badge)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+</div>
 
 > 
 > ⚠️ **STATUS: ARQUIVADO / FRACASSOU ESPETACULARMENTE** 💥
@@ -10,6 +20,10 @@
 > 📅 ~~Versão 0.1 — Deveria ter ficado só na nossa máquina~~ Agora é histórico!
 
 ---
+
+<p align="center">
+  <img src="https://github.com/fydelis2025/FydelisTechOS-TelaGrafica/blob/main/interfacegrafica.png" alt="FydelisTechOS Dashboard" width="40%">
+</p>
 
 ## 😂 A História Triste (Mas Engraçada)
 
