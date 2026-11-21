@@ -1,6 +1,5 @@
 # 🖥️ FydelisTechOS — Tela Gráfica (A Tentativa que Deu Errado 😅)
 
-# 📚 Documentação — FydelisTechOS / FydelTerm
 <div align="center">
 
 [![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
