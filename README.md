@@ -1,4 +1,4 @@
-# 🖥️ FydelisTechOS — Tela Gráfica (A Tentativa que Deu Errado 😅)
+# 🖥️ FydelisTechOS — Tela Gráfica (A Tentativa que Deu Errado)
 
 <div align="center">
 
